@@ -1,0 +1,358 @@
+
+===== COMMUNITIES =====
+Community 1: 1 7 22 8 29 
+Community 2: 3 44 
+Community 3: 20 4 42 
+Community 4: 23 19 12 5 6 35 
+Community 5: 40 10 33 51 
+Community 6: 53 14 
+Community 7: 28 
+Community 8: 57 21 18 17 16 48 15 30 37 32 47 55 56 
+Community 9: 24 27 11 31 39 
+Community 10: 34 36 
+Community 11: 113 74 90 45 
+Community 12: 46 50 52 54 
+Community 13: 58 
+Community 14: 59 
+Community 15: 60 
+Community 16: 61 
+Community 17: 62 
+Community 18: 63 
+Community 19: 115 66 65 64 2 13 9 38 41 43 
+Community 20: 77 70 
+Community 21: 72 
+Community 22: 112 109 101 99 98 89 110 73 71 69 83 67 68 49 
+Community 23: 107 85 84 81 79 78 
+Community 24: 86 82 
+Community 25: 88 87 
+Community 26: 91 
+Community 27: 93 92 
+Community 28: 94 75 
+Community 29: 95 
+Community 30: 120 119 117 114 96 
+Community 31: 97 
+Community 32: 100 
+Community 33: 121 118 108 106 104 102 76 80 25 26 
+Community 34: 105 103 
+Community 35: 111 
+Community 36: 116 
+
+===== COMMUNITY SIZE RANKING =====
+Community Root 73 -> Size: 14
+Community Root 30 -> Size: 13
+Community Root 102 -> Size: 10
+Community Root 64 -> Size: 10
+Community Root 78 -> Size: 6
+Community Root 5 -> Size: 6
+Community Root 96 -> Size: 5
+Community Root 31 -> Size: 5
+Community Root 1 -> Size: 5
+Community Root 46 -> Size: 4
+Community Root 45 -> Size: 4
+Community Root 10 -> Size: 4
+Community Root 4 -> Size: 3
+Community Root 103 -> Size: 2
+Community Root 94 -> Size: 2
+Community Root 92 -> Size: 2
+Community Root 87 -> Size: 2
+Community Root 82 -> Size: 2
+Community Root 70 -> Size: 2
+Community Root 34 -> Size: 2
+Community Root 14 -> Size: 2
+Community Root 3 -> Size: 2
+
+Largest Community -> Root 73 Size: 14
+
+===== GLOBAL TOP INFLUENCERS =====
+DMS -> Student 23 (4)
+DS -> Student 88 (6)
+PCP -> Student 83 (5)
+TFCS -> Student 48 (4)
+
+===== INFLUENCER VS CONNECTIVITY =====
+
+Subject: DMS
+Student 1 -> Influence: 1, Friends: 1
+Student 3 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 4 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 9 -> Influence: 1, Friends: 1
+Student 10 -> Influence: 1, Friends: 1
+Student 11 -> Influence: 1, Friends: 4 [Socially strong, less academic impact]
+Student 15 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 17 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 18 -> Influence: 1, Friends: 1
+Student 19 -> Influence: 1, Friends: 1
+Student 20 -> Influence: 2, Friends: 2
+Student 22 -> Influence: 3, Friends: 2 [High academic influence, low connectivity]
+Student 23 -> Influence: 4, Friends: 1 [High academic influence, low connectivity]
+Student 25 -> Influence: 1, Friends: 1
+Student 26 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 27 -> Influence: 3, Friends: 2 [High academic influence, low connectivity]
+Student 29 -> Influence: 1, Friends: 1
+Student 30 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 31 -> Influence: 1, Friends: 1
+Student 34 -> Influence: 3, Friends: 2 [High academic influence, low connectivity]
+Student 35 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 37 -> Influence: 2, Friends: 2
+Student 39 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 40 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 46 -> Influence: 2, Friends: 2
+Student 47 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 49 -> Influence: 1, Friends: 1
+Student 50 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 57 -> Influence: 1, Friends: 1
+Student 65 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 66 -> Influence: 1, Friends: 1
+Student 67 -> Influence: 1, Friends: 1
+Student 68 -> Influence: 1, Friends: 6 [Socially strong, less academic impact]
+Student 71 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 73 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 74 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 76 -> Influence: 2, Friends: 4 [Socially strong, less academic impact]
+Student 78 -> Influence: 1, Friends: 5 [Socially strong, less academic impact]
+Student 81 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 83 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 84 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 87 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 94 -> Influence: 1, Friends: 1
+Student 98 -> Influence: 1, Friends: 1
+Student 99 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 102 -> Influence: 2, Friends: 2
+Student 103 -> Influence: 2, Friends: 2
+Student 106 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 109 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 115 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 120 -> Influence: 1, Friends: 1
+
+Subject: DS
+Student 4 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 7 -> Influence: 1, Friends: 5 [Socially strong, less academic impact]
+Student 12 -> Influence: 1, Friends: 1
+Student 13 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 16 -> Influence: 1, Friends: 1
+Student 18 -> Influence: 1, Friends: 1
+Student 20 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 23 -> Influence: 1, Friends: 1
+Student 29 -> Influence: 1, Friends: 1
+Student 30 -> Influence: 1, Friends: 1
+Student 31 -> Influence: 1, Friends: 1
+Student 32 -> Influence: 4, Friends: 1 [High academic influence, low connectivity]
+Student 33 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 34 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 35 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 37 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 39 -> Influence: 2, Friends: 2
+Student 43 -> Influence: 1, Friends: 1
+Student 46 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 47 -> Influence: 1, Friends: 1
+Student 48 -> Influence: 1, Friends: 9 [Socially strong, less academic impact]
+Student 50 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 67 -> Influence: 1, Friends: 1
+Student 68 -> Influence: 1, Friends: 6 [Socially strong, less academic impact]
+Student 69 -> Influence: 2, Friends: 4 [Socially strong, less academic impact]
+Student 80 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 83 -> Influence: 3, Friends: 3
+Student 84 -> Influence: 1, Friends: 1
+Student 86 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 88 -> Influence: 6, Friends: 2 [High academic influence, low connectivity]
+Student 90 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 92 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 98 -> Influence: 1, Friends: 1
+Student 103 -> Influence: 2, Friends: 2
+Student 104 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 108 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 115 -> Influence: 1, Friends: 1
+
+Subject: PCP
+Student 1 -> Influence: 1, Friends: 1
+Student 5 -> Influence: 2, Friends: 5 [Socially strong, less academic impact]
+Student 6 -> Influence: 3, Friends: 3
+Student 8 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 9 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 12 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 13 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 15 -> Influence: 3, Friends: 3
+Student 16 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 17 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 22 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 23 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 24 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 27 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 29 -> Influence: 1, Friends: 1
+Student 30 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 36 -> Influence: 2, Friends: 2
+Student 38 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 41 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 42 -> Influence: 1, Friends: 1
+Student 46 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 47 -> Influence: 4, Friends: 1 [High academic influence, low connectivity]
+Student 49 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 50 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 51 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 55 -> Influence: 1, Friends: 1
+Student 65 -> Influence: 4, Friends: 2 [High academic influence, low connectivity]
+Student 66 -> Influence: 1, Friends: 1
+Student 67 -> Influence: 1, Friends: 1
+Student 68 -> Influence: 1, Friends: 6 [Socially strong, less academic impact]
+Student 69 -> Influence: 1, Friends: 4 [Socially strong, less academic impact]
+Student 71 -> Influence: 2, Friends: 2
+Student 75 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 76 -> Influence: 2, Friends: 4 [Socially strong, less academic impact]
+Student 79 -> Influence: 3, Friends: 2 [High academic influence, low connectivity]
+Student 80 -> Influence: 3, Friends: 3
+Student 81 -> Influence: 2, Friends: 2
+Student 83 -> Influence: 5, Friends: 3 [High academic influence, low connectivity]
+Student 84 -> Influence: 1, Friends: 1
+Student 87 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 89 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 90 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 92 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 98 -> Influence: 1, Friends: 1
+Student 101 -> Influence: 1, Friends: 1
+Student 102 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 105 -> Influence: 2, Friends: 2
+Student 106 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 107 -> Influence: 1, Friends: 1
+Student 110 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 114 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 115 -> Influence: 1, Friends: 1
+Student 117 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 119 -> Influence: 1, Friends: 1
+Student 120 -> Influence: 1, Friends: 1
+
+Subject: TFCS
+Student 1 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 5 -> Influence: 1, Friends: 5 [Socially strong, less academic impact]
+Student 7 -> Influence: 1, Friends: 5 [Socially strong, less academic impact]
+Student 8 -> Influence: 1, Friends: 1
+Student 10 -> Influence: 1, Friends: 1
+Student 11 -> Influence: 1, Friends: 4 [Socially strong, less academic impact]
+Student 12 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 13 -> Influence: 3, Friends: 3
+Student 15 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 16 -> Influence: 1, Friends: 1
+Student 17 -> Influence: 2, Friends: 2
+Student 19 -> Influence: 1, Friends: 1
+Student 20 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 23 -> Influence: 1, Friends: 1
+Student 24 -> Influence: 1, Friends: 1
+Student 27 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 29 -> Influence: 1, Friends: 1
+Student 31 -> Influence: 1, Friends: 1
+Student 32 -> Influence: 1, Friends: 1
+Student 34 -> Influence: 2, Friends: 2
+Student 35 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 36 -> Influence: 2, Friends: 2
+Student 37 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 38 -> Influence: 1, Friends: 1
+Student 39 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 41 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 46 -> Influence: 2, Friends: 2
+Student 48 -> Influence: 4, Friends: 9 [Socially strong, less academic impact]
+Student 49 -> Influence: 4, Friends: 1 [High academic influence, low connectivity]
+Student 50 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 65 -> Influence: 3, Friends: 2 [High academic influence, low connectivity]
+Student 66 -> Influence: 3, Friends: 1 [High academic influence, low connectivity]
+Student 68 -> Influence: 1, Friends: 6 [Socially strong, less academic impact]
+Student 71 -> Influence: 2, Friends: 2
+Student 73 -> Influence: 1, Friends: 1
+Student 74 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 76 -> Influence: 1, Friends: 4 [Socially strong, less academic impact]
+Student 77 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 80 -> Influence: 3, Friends: 3
+Student 83 -> Influence: 2, Friends: 3 [Socially strong, less academic impact]
+Student 84 -> Influence: 1, Friends: 1
+Student 85 -> Influence: 4, Friends: 1 [High academic influence, low connectivity]
+Student 86 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 88 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 93 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 102 -> Influence: 4, Friends: 2 [High academic influence, low connectivity]
+Student 104 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 106 -> Influence: 1, Friends: 1
+Student 107 -> Influence: 2, Friends: 1 [High academic influence, low connectivity]
+Student 108 -> Influence: 1, Friends: 1
+Student 109 -> Influence: 1, Friends: 2 [Socially strong, less academic impact]
+Student 110 -> Influence: 1, Friends: 3 [Socially strong, less academic impact]
+Student 115 -> Influence: 1, Friends: 1
+Student 119 -> Influence: 1, Friends: 1
+Student 120 -> Influence: 1, Friends: 1
+Student 121 -> Influence: 1, Friends: 1
+
+===== BRIDGE STUDENTS =====
+
+===== FUTURE INFLUENCERS =====
+Student 83 -> Score: 25
+Student 80 -> Score: 19
+Student 48 -> Score: 19
+Student 23 -> Score: 19
+Student 65 -> Score: 18
+
+===== COMMUNITY-WISE INFLUENCERS (FIXED) =====
+
+Community Root 1:
+DMS -> Student 29 (1)
+PCP -> Student 8 (2)
+TFCS -> Student 1 (2)
+
+Community Root 5:
+DMS -> Student 23 (3)
+DS -> Student 12 (1)
+PCP -> Student 6 (2)
+TFCS -> Student 35 (2)
+
+Community Root 10:
+PCP -> Student 51 (1)
+
+Community Root 30:
+DMS -> Student 30 (2)
+DS -> Student 32 (2)
+PCP -> Student 47 (4)
+TFCS -> Student 15 (2)
+
+Community Root 31:
+DMS -> Student 27 (2)
+DS -> Student 31 (1)
+PCP -> Student 24 (3)
+TFCS -> Student 11 (1)
+
+Community Root 45:
+PCP -> Student 90 (1)
+
+Community Root 46:
+PCP -> Student 46 (1)
+
+Community Root 64:
+DMS -> Student 9 (1)
+DS -> Student 43 (1)
+PCP -> Student 38 (3)
+TFCS -> Student 65 (3)
+
+Community Root 73:
+DMS -> Student 49 (1)
+PCP -> Student 83 (2)
+TFCS -> Student 71 (1)
+
+Community Root 78:
+DMS -> Student 84 (3)
+PCP -> Student 79 (3)
+TFCS -> Student 85 (4)
+
+Community Root 96:
+PCP -> Student 114 (2)
+TFCS -> Student 119 (1)
+
+Community Root 102:
+DMS -> Student 76 (2)
+DS -> Student 80 (2)
+PCP -> Student 80 (2)
+TFCS -> Student 102 (3)
+
+Community Root 103:
+DS -> Student 103 (2)
+
+Graph exported to graph_edges.txt (for visualization)
+Graph viewer exported to graph_view.html
+
+===== PERFORMANCE =====
+Optimized DSU Time: 0.0039197 sec
+Naive DSU Time: 1.14e-05 sec
